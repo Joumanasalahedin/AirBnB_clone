@@ -1,6 +1,15 @@
+html,
 body {
+    min-height: 100vh;
     margin: 0;
     padding: 0;
+}
+
+html {
+    position: relative;
+}
+
+body {
     color: #484848;
     font-size: 14px;
     font-family: Circular,
